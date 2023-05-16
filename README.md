@@ -3,7 +3,7 @@
 
 **Project Background** :
 
-In the world of commerce, especially e-commerce companies, companies must continue to innovate in their marketing strategies to achieve optimal success. One effective approach is to understand customer behavior and develop marketing strategies that suit their preferences and needs.
+In the world of commerce, especially for FMCG and e-commerce companies, companies must continue to innovate in their marketing strategies to achieve optimal success. One effective approach is to understand customer behavior and develop marketing strategies that suit their preferences and needs.
 
 **Obejective**
 
